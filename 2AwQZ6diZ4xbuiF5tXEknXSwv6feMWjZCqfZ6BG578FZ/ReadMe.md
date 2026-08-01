@@ -1,0 +1,11 @@
+2AwQZ6diZ4xbuiF5tXEknXSwv6feMWjZCqfZ6BG578FZ
+How RSA Sign & Verification Works
+Demo of Message Signing and Verification
+
+This demonstration shows how to sign and verify a message in the Godot Engine.
+It demonstrates how a player can prove their identity by signing a message with their private key and verifying it with the corresponding public key.
+It also serves as a regression test to ensure that the RSA, Base58 (B58), and SHA-256 utility implementations are working correctly.
+
+
+More information here:
+https://github.com/EloiStree/2026_06_29_upm_text_byte_in_out_layer_mirror_rsa/tree/main/Runtime/pbit4096b58pkcs1sha256
