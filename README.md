@@ -6,6 +6,10 @@ I want to be able to say:
 
 > You can open this demo using the following code, or alias.   
 
+If you want to use it you can look at those toolboxes:   
+- https://github.com/EloiStree/2026_07_31_gdp_load_scene_by_guid   
+- https://github.com/EloiStree/2026_01_03_gdp_input_to_primitive   
+  
 If the demo is present in the build, it will open automatically.   
 
 This allows me to avoid having menus in my game. Instead, I only need an ID to load a demo from:   
